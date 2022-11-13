@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Задача 1");
         int ios = 0;
         int android = 1;
-        int clientOs = 0;
+        int clientOs = 1;
         if (clientOs >= 1) {
             System.out.println("Скачайте приложение для андроид по ссылке");
             if (clientOs < 1) {
@@ -23,7 +23,7 @@ public class Main {
         int android = 1;
         int ClientDeviceyear = 2015;
         if (ClientDeviceyear >= 2015) {
-            System.out.println("Установите приложение по ссылке");
+            System.out.println("Установите приложение по ссылке.");
             if (ClientDeviceyear < 2015) {
                 System.out.println("Скачайте облегченное приложение по ссылке.");
             }
